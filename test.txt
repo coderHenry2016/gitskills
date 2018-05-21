@@ -1,5 +1,7 @@
 hello world!
 
-i am the king!!
 
-Git is a tools!
+i am the king!
+
+
+git is a good tools for use!
